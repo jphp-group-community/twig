@@ -26,7 +26,7 @@ hs_err_pid*
 gradle/
 gradlew
 gradlew.bat
-#vendor/
+vendor/
 build/
 package-lock.php.yml
 package.*.yml
