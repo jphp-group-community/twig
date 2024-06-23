@@ -12,7 +12,7 @@ deps:
 
 devDeps:
   jphp-core: '*'
-  tester: 'W:\GIT\DevelNext\tester'
+#  tester: '*'
 
 tasks:
   #build - default
