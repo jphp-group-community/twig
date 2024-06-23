@@ -21,16 +21,10 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+
 .idea/
-.gradle/
-gradle/
-gradlew
-gradlew.bat
-#vendor/
-build/
+vendor/
+**/tester.json
 package-lock.php.yml
 package.*.yml
-
 !package.php.yml
-build.gradle
-*.iml

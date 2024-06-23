@@ -1,0 +1,26 @@
+{
+  "classPaths": {
+    "": [
+      "/jphp-runtime/jars/jphp-runtime-1.0.3.jar"
+    ],
+    "dev": [
+      "/jphp-core/jars/asm-7.3.1.jar",
+      "/jphp-core/jars/asm-analysis-7.3.1.jar",
+      "/jphp-core/jars/asm-commons-7.3.1.jar",
+      "/jphp-core/jars/asm-tree-7.3.1.jar",
+      "/jphp-core/jars/asm-util-7.3.1.jar",
+      "/jphp-core/jars/jphp-core-0.9.3-SNAPSHOT.jar",
+      "/jphp-runtime/jars/jphp-runtime-1.0.3.jar",
+      "/tester/src",
+      "/jphp-json-ext/jars/gson-2.7.jar",
+      "/jphp-json-ext/jars/jphp-json-ext-0.9.3-SNAPSHOT.jar"
+    ],
+    "plugin": [
+      "/tester/src-plugin"
+    ]
+  },
+  "includes": [],
+  "plugins": [
+    "tester\\TesterPlugin"
+  ]
+}
