@@ -1,6 +1,6 @@
 name: twig
 version: 1.0.3
-description: Twig template engine for JPHP
+description: Движок шаблонов Twig для JPHP
 
 plugins:
 - Hub
@@ -12,12 +12,12 @@ deps:
 
 devDeps:
   jphp-core: '*'
-#  tester: 'W:\GIT\DevelNext\tester'
   tester: 'W:\GIT\DevelNext\tester'
 
 tasks:
+  #build - default
   build+test:
-    description: Build and run tests.
+    description: Сборка и запуск тестов.
     depends-on: ['build', 'test']
 
 sources:
