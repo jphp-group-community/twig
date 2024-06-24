@@ -4,6 +4,18 @@
 
 Twig template engine for JPHP.
 
+## Install deps
+
+```bash
+jppm install
+```
+
+## Build
+```bash
+jppm build
+```
+
+
 ## Install
 
 ```bash
