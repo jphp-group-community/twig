@@ -1,4 +1,4 @@
-name: twig
+﻿name: twig
 version: 1.0.3
 description: Движок шаблонов Twig для JPHP
 
@@ -17,7 +17,7 @@ devDeps:
 tasks:
   #build - default
   build+test:
-    description: Сборка и запуск тестов.
+    description: Building and running tests.
     depends-on: ['build', 'test']
 
 sources:
