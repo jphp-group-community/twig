@@ -3,6 +3,9 @@
 [![Build Status](https://travis-ci.org/jphp-group/twig.svg?branch=master)](https://travis-ci.org/jphp-group/twig)
 
 Twig template engine for JPHP.
+```
+twig -> twig-template-ext // Заменить зависимость
+```
 
 ## Install deps
 
